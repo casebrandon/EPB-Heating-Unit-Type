@@ -38,5 +38,3 @@ To run the current version of the program, follow the steps below:
 3. Execute: *python ./BatchExecutable.py*
 4. The program runs without a progress bar.
 5. Once the program is finished, it will print the amount of time it took to complete.
-
-**_Alternatively, a Window's compatible executable will also be available. This removes the need to install dependencies and run the program via command line._**
