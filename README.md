@@ -1,4 +1,4 @@
-#**WARNING! This program may no loanger be useable due to it being a timed project. The code is available for reference only!**
+# **WARNING! This program may no loanger be useable due to it being a timed project. The code is available for reference only!**
 
 # EPB-Heating-Unit-Type
 Python program used by EPB to determine if a customer is using an electric or non-electric heating unit.
